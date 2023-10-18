@@ -1,9 +1,9 @@
 # greetings fellow agents 
 
-# 💫 About Me:
+- My name is Anujoy Chakraborty,
 - 🔭 Currently doing my master's in Robotic Systems Engineering at RWTH, Aachen.
-- 🌱 Working towards becoming a full stack engineer in the broadest sense.
-- ⚡ Latest obsession: marrying LLMs with Robotics workflows.
+- 🌱 Evolving towards becoming a full stack engineer in the broadest sense.
+- ⚡ Latest obsession: marrying LLMs with Robots.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://de.linkedin.com/in/datamonger) 
