@@ -1,6 +1,4 @@
 # greetings fellow agents 
-
-- My name is Anujoy Chakraborty,
 - 🔭 Currently doing my master's in Robotic Systems Engineering at RWTH, Aachen.
 - 🌱 Evolving towards becoming a full stack engineer in the broadest sense.
 - ⚡ Latest obsession: marrying LLMs with Robots.
