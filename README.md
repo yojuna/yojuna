@@ -68,7 +68,7 @@
 
 
 
-## **Awards & Co-Curricular Projects**
+## **Awards & Projects**
 - **Deep Neural Network for Solar Soiling Estimation using Aerial Vehicles** (Apr 2022 – Nov 2022)
   - Awarded as the winning project of the Student Project Grant for 2022.
 - **Cloud Neural Network Inference for Automated Vehicles, IKA RWTH** (Apr 2023 – Sep 2023)
