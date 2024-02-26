@@ -75,4 +75,4 @@
 - **Mentor at TechLabs, Aachen** (Sep 2022 – Present)
   - Mentored in web development and AI, Data Science tracks.
 - **Chapter President at International Society of Automation (ISA), VIT University** (Jul 2014 – May 2015)
-  - Organized workshops, seminars, and received the 'Best Performance Award' for the Asia Pacific region.
+  - Organized workshops, seminars, and received the 'Best Performance Award' for the Asia Pacific region for our chapter's team.
